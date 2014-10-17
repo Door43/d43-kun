@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kun:home|Door43 (kun)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kun|d43-kun repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kun/archive/master.zip|d43-kun.zip]]
+
+**Recent Changes**
+{{changes>ns = kun}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kun|Ethnologue data]]
+
