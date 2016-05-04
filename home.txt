@@ -1,8 +1,7 @@
 ====== Door43 (kun) ======
 
-Welcome to Door43! Please feel free to [[?do=edit|edit]] this page in your own language. More information about how to get started can be found [[en:get-started|here]].
-
+Welcome to Door43! Please feel free to [[:kun:home?do=edit|edit]] this page in your own language. More information about how to get started can be found [[:en:get-started|here]].
 
 ===== Resources =====
 
-  * **[[kun:obs|Open Bible Stories (kun)]]**
+  * **[[:kun:obs|Open Bible Stories (kun)]]**
